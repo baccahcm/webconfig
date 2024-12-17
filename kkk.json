@@ -1,0 +1,9 @@
+{
+"HOST_U": "",
+"IS_APPSTORE": false,
+"PORTAL": "test",
+"HOST": "tgthomo.bet",
+"FB_LOGIN_URL": "http://fbook/Home/FbLogin",
+"PING_TIME": 5,
+"RECONNECT_TIME": 5
+}
